@@ -1,0 +1,7 @@
+{
+  "name": "CheatPlugin",
+  "author": "laxtiz",
+  "main": "com.laxtiz.game.CheatPlugin",
+  "description": "Cheat like in StarCraft, need admin.",
+  "version": 1.0
+}
